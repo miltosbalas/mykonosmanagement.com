@@ -21,7 +21,7 @@ window.VILLAS = [
     logo: "https://scontent.fskg1-2.fna.fbcdn.net/v/t39.30808-6/486953496_1226204196180515_3703078736496471282_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1024&ctp=s1024x1024&_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=aFs1vOfArsYQ7kNvwGpVAnT&_nc_oc=Adq0iXV6XLhGLlGECHsnaTXJ3SJ4PHTlbrodIzWXmz52KESKO3DREyg_-IbaxS0AWx42sHUn_P3dmRE0T-X0ICG5&_nc_zt=23&_nc_ht=scontent.fskg1-2.fna&_nc_gid=nA0-FcTcPkZDSaSH0Atyrw&_nc_ss=7b289&oh=00_Af9hHHQGy1eT5EgqMOy9szGcacgRFD-yaRSfgAPkZG1aSA&oe=6A3CDF37",
     cover: "https://i.ibb.co/XkY8TPyw/Whats-App-Image-2026-06-21-at-12-59-26-AM.jpg",
     description: "Casa Gekko Mykonos sits above the water with uninterrupted Aegean views, four bedrooms, a private infinity pool and shaded terraces built for long Mykonos evenings. Every room is finished in soft whitewash and natural timber, balancing barefoot island ease with quietly luxurious detail.",
-    descriptionShort: "Cliffside infinity pool villa with uninterrupted Aegean views, 4 bedrooms and shaded terraces for up to 8 guests.",
+    descriptionShort: "Casa Gekko Mykonos by Roomers Hotels, Villa with Private Pool & Sea Views of the Aegean Sea located near Ornos Beach",
     images: [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1665399275809961125/original/cc59ed4a-7351-48a6-9d2a-0a35a5d44f70.png?im_w=1200",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1665399275809961125/original/089cfbe1-b98b-4e79-a99d-03e7ab17c3fc.jpeg?im_w=1200",
@@ -68,23 +68,22 @@ window.VILLAS = [
     ]
   }
 
-  /* --- ADD YOUR NEXT VILLA BELOW, e.g. ---
-  ,{
-    id: "villa-example",
-    name: "Villa Example",
-    destination: "antiparos",   // "mykonos" or "antiparos" — controls which destination tab shows it
-    location: "Antiparos, Greece",
+{
+    id: "grace",
+    name: "Grace Villa Mykonos",
+    destination: "mykonos",   // "mykonos" or "antiparos" — controls which destination tab shows it
+    location: "Mykonos, Greece",
     tagline: "Short poetic tagline",
-    bedrooms: 4,
-    guests: 8,
+    bedrooms: 5,
+    guests: 11,
     bathrooms: 4,
     pool: true,
     seaview: true,
     logo: "",
-    cover: "https://link-to-cover-image.jpg",
-    description: "Longer paragraph description...",
+    cover: "https://i.ibb.co/XrZm31R8/fcc25a10-1f25-4521-bf77-8336f271bb71.jpg",
+    description: "Luxury Grace Villa Mykonos, amazing Sea View with Pool, walking Distance to Ornos Beach",
     descriptionShort: "One line summary used on the villas grid.",
-    images: ["https://link1.jpg", "https://link2.jpg"]
+    images: ["https://a0.muscache.com/im/pictures/hosting/Hosting-845582336211151746/original/47379129-8473-4278-bf17-c145b66495b4.jpeg?im_w=1200", "https://a0.muscache.com/im/pictures/hosting/Hosting-845582336211151746/original/c451e6cb-4efe-41ea-a58c-2507d3f6a610.jpeg?im_w=1200"]
   }
   */
 ];
