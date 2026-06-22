@@ -66,7 +66,7 @@ window.VILLAS = [
       "https://i.ibb.co/6c4CdKzw/IMG-4272.jpg",
       "https://i.ibb.co/Q7FqjV9n/IMG-4280.jpg"
     ]
-  }
+  },
 
 {
     id: "grace",
