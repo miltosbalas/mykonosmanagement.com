@@ -85,5 +85,5 @@ window.VILLAS = [
     descriptionShort: "One line summary used on the villas grid.",
     images: ["https://a0.muscache.com/im/pictures/hosting/Hosting-845582336211151746/original/47379129-8473-4278-bf17-c145b66495b4.jpeg?im_w=1200", "https://a0.muscache.com/im/pictures/hosting/Hosting-845582336211151746/original/c451e6cb-4efe-41ea-a58c-2507d3f6a610.jpeg?im_w=1200"]
   }
-  */
+
 ];
